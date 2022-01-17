@@ -1,18 +1,26 @@
 p {
-	color:orange;
 	width: 300px;
+	text-align:justify;
 }
 h1 {
 	color:#49BCBD;
+	text-align: right;
 }
 h2 {
 	color:rgb(208, 175, 210);
+	text-align:center;
+	width:300px;
 }
 h3 {
 	color:red;
 }
 
+table {
+	width:500;
+}
+th {
+	text-align:left;
+}
 td {
-width:400px;
-height:300px;
+	text-align:center;
 }
