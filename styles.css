@@ -1,4 +1,27 @@
-a {
-	text-decoration:none;
-	color:red;
+h1{
+	color: blue;
+	font-size: 40px;
+	text-align:center;
+}
+p{
+	text-indent: 50px;
+	font: 16px/25px "Arial";
+	text-align:justify;
+}
+h2{
+	color:green;
+	text-align:center;
+	font-size: 30px;
+	font-weight:normal;
+}
+h1,h2,p {
+	width:500px;
+}
+ul{
+	width:400px;
+	text-align: justify;
+	font:16px/20px;
+}
+i{
+	color: green;
 }
